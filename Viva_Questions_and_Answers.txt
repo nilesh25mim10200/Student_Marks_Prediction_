@@ -1,0 +1,47 @@
+VIVA QUESTIONS AND ANSWERS
+
+1. What is Machine Learning?
+Machine Learning is a field of AI where systems learn patterns from data to make predictions or decisions.
+
+2. What type of ML is used?
+Supervised learning, because the training data contains both input and known target values.
+
+3. Which algorithm is used?
+Linear Regression.
+
+4. What is the input feature?
+Study_Hours.
+
+5. What is the target variable?
+Marks.
+
+6. Why use Linear Regression?
+It is simple, interpretable, and suitable for demonstrating a roughly linear relationship between a numeric input and output.
+
+7. What does model.fit() do?
+It trains the model by learning parameters from the training data.
+
+8. What does model.predict() do?
+It generates predicted target values for new input data.
+
+9. What is pandas used for?
+Loading, organizing, and manipulating the dataset.
+
+10. What is scikit-learn?
+A Python machine-learning library containing algorithms and utilities for training and evaluating models.
+
+11. What is Tkinter?
+Python's standard GUI toolkit for creating desktop interfaces.
+
+12. Is the prediction always accurate?
+No. This is a small educational dataset and marks depend on many factors not represented in the model.
+
+13. What is a feature?
+An input variable used by a machine-learning model to make a prediction.
+
+14. What is supervised learning?
+Learning a mapping from inputs to known labeled outputs.
+
+15. How can the project be improved?
+Use more data, multiple features, train/test splitting, evaluation metrics, and comparison with other algorithms.
+
